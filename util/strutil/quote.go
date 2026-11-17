@@ -253,3 +253,5 @@ func unhex(b byte) (v rune, ok bool) {
 	}
 	return v, ok
 }
+
+// Durative retest: incremental leaf input, 2026-11-16.
